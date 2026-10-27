@@ -17,7 +17,7 @@ Reference solutions for:
 > [!IMPORTANT]
 > **Intellectual Property Notice**
 >
-> Assignment sheets, syllabus tasks, and proprietary starter templates are copyrighted property of **Wrocław University of Science and Technology (Politechnika Wrocławska)** and their respective authors. Assignment PDFs and university-provided materials are therefore **NOT included**. The repositories only contain code with documentation and represent the author's original code.
+> Assignment sheets, syllabus tasks, and proprietary starter templates are copyrighted property of **Wrocław University of Science and Technology (Politechnika Wrocławska)** and their respective authors. Assignment PDFs and university-provided materials are therefore **NOT included**. The repositories only contain code with documentation and represent the author's original work.
 
 > [!WARNING]
 > **Academic Integrity & Plagiarism Disclaimer**
